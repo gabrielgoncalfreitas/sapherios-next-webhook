@@ -17,4 +17,4 @@ app.post("/webhook", async (req, res) => {
   }
 });
 
-app.listen(3001, () => console.log("Middleware rodando na porta 3000"));
+app.listen(3001, () => console.log("Middleware rodando na porta 3001"));
